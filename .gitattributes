@@ -1,0 +1,4 @@
+RoadDamage/model/*.hdf5 filter=lfs diff=lfs merge=lfs -text
+RoadDamage/model/*.pt filter=lfs diff=lfs merge=lfs -text
+RoadDamage/model/*.npy filter=lfs diff=lfs merge=lfs -text
+RoadDamage/model/*.pckl filter=lfs diff=lfs merge=lfs -text
