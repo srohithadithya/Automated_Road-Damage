@@ -1,7 +1,5 @@
 # 🛣️ Automated Road Damage Detection using UAV Images
 
-![Project Header](DOCUMENTATION/AUTOMATED%20ROAD%20DAMAGE%20DETECTION%20USING%20DEEP%20LEARNING%20TECHNIQUES%20AND%20UAV%20IMAGES.png)
-
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow 2.16](https://img.shields.io/badge/TensorFlow-2.16-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![Keras 3](https://img.shields.io/badge/Keras-3.0-red?logo=keras)](https://keras.io/)
@@ -89,11 +87,11 @@ Automated_road-damage/
 │   ├── Main.py              # Main Application Entry Point
 │   ├── requirements.txt     # Python Dependencies
 │   ├── run.bat              # Windows Launch Script
-│   ├── model/               # Weights (Local only: .hdf5, .pt)
+│   ├── model/               # Models & Weights (.hdf5, .pt, .npy)
 │   ├── testImages/          # Sample Images for Inference
-│   └── RDD2022_China_Drone/ # Dataset (Local only)
+│   └── RDD2022_China_Drone/ # Dataset Structure
+├── DOCUMENTATION/           # Project Reports and Presentations
 ├── .gitignore               # Project Exclusions
-├── DOCUMENTATION/           # Reports (Local only)
 └── README.md                # Project Documentation
 ```
 
