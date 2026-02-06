@@ -8,7 +8,6 @@
 ## 📝 Overview
 This research-oriented project implements an **Automated Road Damage Detection System** utilizing **UAV (Unmanned Aerial Vehicle)** imagery and state-of-the-art **Deep Learning** techniques. The system provides a graphical interface to compare performance across multiple YOLO architectures and perform real-time damage detection.
 
-## 🚀 Recent Upgrades (Feb 2026)
 The project has been fully modernized and upgraded to **Python 3.12.0**:
 - **Core Engine**: Migrated to **TensorFlow 2.16.1** and **Keras 3.0**.
 - **YOLO Integration**: Full support for `ultralytics` YOLOv8.
