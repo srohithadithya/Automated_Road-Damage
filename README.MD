@@ -89,10 +89,11 @@ Automated_road-damage/
 │   ├── Main.py              # Main Application Entry Point
 │   ├── requirements.txt     # Python Dependencies
 │   ├── run.bat              # Windows Launch Script
-│   ├── model/               # Pre-trained Model Weights (.hdf5, .pt, .pckl)
+│   ├── model/               # Weights (Local only: .hdf5, .pt)
 │   ├── testImages/          # Sample Images for Inference
-│   └── RDD2022_China_Drone/ # Dataset Structure (Images & Annotations)
-├── DOCUMENTATION/           # Project Reports and Presentations
+│   └── RDD2022_China_Drone/ # Dataset (Local only)
+├── .gitignore               # Project Exclusions
+├── DOCUMENTATION/           # Reports (Local only)
 └── README.md                # Project Documentation
 ```
 
