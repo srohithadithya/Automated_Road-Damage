@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data & Large Files
+RoadDamage/RDD2022_China_Drone/
+RoadDamage/model/*.npy
+RoadDamage/model/*.pckl
+RoadDamage/model/*.hdf5
+RoadDamage/model/*.pt
+
+# Documentation (Excluded per request)
+DOCUMENTATION/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
