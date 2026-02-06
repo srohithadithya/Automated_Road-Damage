@@ -5,28 +5,21 @@ __pycache__/
 *.so
 .Python
 env/
+venv/
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
 
-# Data & Large Files
-RoadDamage/RDD2022_China_Drone/
-RoadDamage/model/*.npy
+# Keep Models and Data as requested
+# RoadDamage/RDD2022_China_Drone/
+# RoadDamage/model/*.hdf5
+# RoadDamage/model/*.pt
+
+# Intermediate/Generated Files (usually unwanted)
 RoadDamage/model/*.pckl
-RoadDamage/model/*.hdf5
-RoadDamage/model/*.pt
+RoadDamage/model/X.txt.npy
+RoadDamage/model/Y.txt.npy
+RoadDamage/model/bb.txt.npy
 
 # Documentation (Excluded per request)
 DOCUMENTATION/
@@ -34,4 +27,3 @@ DOCUMENTATION/
 # OS
 .DS_Store
 Thumbs.db
-desktop.ini
