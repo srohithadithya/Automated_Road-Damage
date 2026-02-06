@@ -90,7 +90,6 @@ Automated_road-damage/
 │   ├── model/               # Models & Weights (.hdf5, .pt, .npy)
 │   ├── testImages/          # Sample Images for Inference
 │   └── RDD2022_China_Drone/ # Dataset Structure
-├── DOCUMENTATION/           # Project Reports and Presentations
 ├── .gitignore               # Project Exclusions
 └── README.md                # Project Documentation
 ```
